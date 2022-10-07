@@ -1,0 +1,4 @@
+agent:
+  resourceClasses:
+    namespace/container-agent:
+      token: e3275c3373ba6d2b108a0add5a42679ad5a5d2fc150b4bea3c660a68a66f313f3cee0c8b739cca4c
